@@ -1,0 +1,1 @@
+Place the Penn World Table workbook used for the paper here as `macro_data.xlsx`, with a `Data` worksheet. The workbook is excluded from Git. Required columns include country, year, rgdpe, rnna, emp, labsh, and hc. Use the original workbook for numerical replication; later releases may differ.

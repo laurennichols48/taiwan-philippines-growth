@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+.venv/
+data/*
+!data/README.md
+*.parquet
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+wandb/
